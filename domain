@@ -11,8 +11,7 @@ p {font-style: italic}
 
 <body>
 <p>
-    here is some text displayed in italics and
-    <span style = "font-weight: bold">bold</span> too
+    here is some text displayed in italics 
 </body>
 
 
