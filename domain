@@ -1,7 +1,20 @@
 <html>
 <head>
 <title>
-hello world
+using italics
 </title>
 </head>
+
+<style>
+p {font-style: italic}
+</style>
+
+<body>
+<p>
+    here is some text displayed in italics and
+    <span style = "font-weight: bold">bold</span> too.
+</body>
+
+
+
 </html>
