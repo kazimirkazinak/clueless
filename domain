@@ -10,10 +10,9 @@ p {font-style: italic}
 </style>
 
 <body>
-<h1>
+<p>
     here is some text displayed in italics and
-    <span style = "font-weight: bold">bold</span> too.
-</h1>
+    <span style = "font-weight: bold">bold</span> too
 </body>
 
 
