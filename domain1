@@ -1,19 +1,14 @@
 <html>
-<head>
-<title>
-using italics
-</title>
-</head>
-
-<style>
-p {font-style: italic}
-</style>
-
-<body>
-<p>
-    here is some text displayed in italics 
-</body>
-
-
-
-</html>
+    <head>
+        <title>
+            Using Italics
+        </title>
+        </head>
+        
+        <body>
+        <p>
+            <i> Here is some text displayed in italics and <b> bold </b> too. </i>
+            </body>
+            </html>
+            
+            
