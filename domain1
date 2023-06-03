@@ -1,14 +1,16 @@
 <html>
-    <head>
-        <title>
-            Using Italics
-        </title>
-        </head>
-        
-        <body>
-        <p>
-            <i> Here is some text displayed in italics and <b> bold </b> too. </i>
-            </body>
-            </html>
-            
-            
+<head>
+<title>
+specific tag styling example
+</title>
+</head>
+
+<style>
+p {font - size = 50pt}
+</style>
+
+<body>
+<P>
+some big text.
+</body>
+</html>
