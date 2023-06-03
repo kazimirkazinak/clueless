@@ -6,7 +6,7 @@ specific tag styling example
 </head>
 
 <style>
-p {font - size = 50pt}
+P {font - size = 50pt}
 </style>
 
 <body>
